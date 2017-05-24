@@ -1,0 +1,1 @@
+@py.exe C:\Users\Vrishabh\Desktop\py progs\pw.py %*
